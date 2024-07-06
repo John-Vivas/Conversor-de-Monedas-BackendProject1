@@ -62,7 +62,7 @@
 
       En esta ocacion escogi el cambio de pesos Colombianos a dolar, despues ingesas el valor y el programa te dara el valor en dolares.
 
-      ##Gracias por leer el Readme.md
+      ## Gracias por leer el Readme.md
 
 
       
