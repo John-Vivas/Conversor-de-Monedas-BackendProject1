@@ -86,14 +86,14 @@ public class ConvertirMoney {
 
 
                     System.out.printf("Cantidad convertida: %.2f %s a dólares: %.2f USD%n", cantidadMoney, typeMoney, convierteAmount);
-                    //System.out.println("Cantidad convertida: "+cantidadMoney +" "+typeMoney + " a dolares:  "+convierteAmount+" USD" ); // codigo poco ineficiente
+
                     System.out.println("*************************************************************************");
                 } else {
                     // Convierte de dólares a moneda escogida
                     double convierteAmount = cantidadMoney /typeChange ;
 
                     System.out.printf("Cantidad convertida de dólares: %.2f USD a %.2f %s%n", cantidadMoney, convierteAmount, typeMoney);
-                    //System.out.println("Cantidad convertida de dolares: " + cantidadMoney + " USD a "+  convierteAmount +" " + typeMoney); // codigo poco ineficiente
+                    
                     System.out.println("*************************************************************************");
                 }
             } else {
